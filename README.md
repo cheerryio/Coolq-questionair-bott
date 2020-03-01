@@ -6,7 +6,7 @@
 
 ### 下载对应文件
 
-在[本页](https://github.com/cheerryio/Coolq-questionair-bot/tree/1.0.0) 点击 release 标签 ![图片加载出错](pics/1.png)
+在[本页](https://github.com/cheerryio/Coolq-questionair-bott) 点击 release 标签 ![图片加载出错](pics/1.png)
 
 下载圈出来的两个文件到本地任意位置 ![图片加载出错](pics/2.png)
 
