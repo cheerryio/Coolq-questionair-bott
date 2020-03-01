@@ -32,7 +32,7 @@
 
 第一次配置成功后会在data/app目录下生成questionair.ini配置文件，如果打开出现乱码情况，
 
-请下载vscode或者notebook 更改编码查看编辑此文件
+请下载vscode或者notebook 更改编码查看编辑此文件。直接对该文件进行编辑能更加深度的定制机器人的各种回复语句
 
 
 
